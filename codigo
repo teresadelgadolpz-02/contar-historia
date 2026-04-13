@@ -212,8 +212,7 @@
   </div>
 
   <script>
-    // CAMBIA AQUÍ LAS IMÁGENES
-    const HEADER_IMAGE = 'tu-encabezado.png';
+    const HEADER_IMAGE = '../2.jpg'
     const LOGO_IMAGE = 'tu-logo.png';
 
     document.getElementById('headerImage').src = HEADER_IMAGE;
